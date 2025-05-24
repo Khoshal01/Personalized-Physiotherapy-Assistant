@@ -66,7 +66,8 @@ python app.py
 
 # In a new terminal (with virtual environment activated), run the Gradio chatbot
 python chatbot.py
-'''
+```` 
+
 ---
 
 ## 📃 License
