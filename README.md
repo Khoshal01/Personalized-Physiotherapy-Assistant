@@ -46,21 +46,26 @@ Your AI-powered virtual physiotherapist — guiding patients through personalize
 
 ## 📦 Setup Locally
 
+To run this project on your machine:
+
 ```bash
 # Clone the repository
 git clone https://github.com/Khoshal01/Personalized-Physiotherapy-Assistant.git
 cd Personalized-Physiotherapy-Assistant
 
-# Set up Python environment
+# Set up Python virtual environment
 python -m venv venv
 venv\Scripts\activate   # On Windows
 # source venv/bin/activate  # On macOS/Linux
 
-# Install dependencies
+# Install all dependencies
 pip install -r requirements.txt
 
-# Run the Flask app
+# Run the Flask backend
 python app.py
+
+# In a new terminal (with virtual environment activated), run the Gradio chatbot
+python chatbot.py
 
 
 
