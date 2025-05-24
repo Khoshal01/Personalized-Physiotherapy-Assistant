@@ -72,5 +72,5 @@ python chatbot.py
 
 ## 📃 License
 
-This project is licensed under the [MIT License](LICENSE) © 2025 Khoshal Amin.
+This project is licensed under the MIT License © 2025 Personalized Physiotherapy Assistant Group.
 
