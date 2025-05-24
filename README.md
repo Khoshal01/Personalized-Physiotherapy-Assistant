@@ -34,6 +34,16 @@ Your AI-powered virtual physiotherapist — guiding patients through personalize
 
 ---
 
+## 📸 Screenshots
+![WhatsApp Image 2025-04-27 at 13 20 23_acb1f929](https://github.com/user-attachments/assets/fe2ccbf6-25a7-48db-9848-2a683cab219f)
+
+![WhatsApp Image 2025-04-27 at 14 06 16_34142cfb](https://github.com/user-attachments/assets/8bab79d1-8cf6-4588-9648-2e75d4c7afac)
+
+![WhatsApp Image 2025-04-27 at 14 09 10_f8a133f2](https://github.com/user-attachments/assets/c3e4363c-1fc3-4b69-87b5-4a30daef021e)
+
+![WhatsApp Image 2025-04-27 at 14 38 32_066dabba](https://github.com/user-attachments/assets/9517f1ca-b977-46f9-ae8f-079ea43c11c4)
+
+
 ## 📦 Setup Locally
 
 ```bash
@@ -44,13 +54,5 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
 
-##📸 Screenshots
-![WhatsApp Image 2025-04-27 at 13 20 23_acb1f929](https://github.com/user-attachments/assets/fe2ccbf6-25a7-48db-9848-2a683cab219f)
-
-![WhatsApp Image 2025-04-27 at 14 06 16_34142cfb](https://github.com/user-attachments/assets/8bab79d1-8cf6-4588-9648-2e75d4c7afac)
-
-![WhatsApp Image 2025-04-27 at 14 09 10_f8a133f2](https://github.com/user-attachments/assets/c3e4363c-1fc3-4b69-87b5-4a30daef021e)
-
-![WhatsApp Image 2025-04-27 at 14 38 32_066dabba](https://github.com/user-attachments/assets/9517f1ca-b977-46f9-ae8f-079ea43c11c4)
 
 ##📃 License
