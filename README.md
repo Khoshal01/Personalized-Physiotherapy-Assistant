@@ -11,7 +11,7 @@ Your AI-powered virtual physiotherapist — guiding patients through personalize
 - 📂 MongoDB for user data (chat history, progress, etc.)
 - 🧠 Qdrant vector database for RAG-based responses
 - 📧 Invite doctors for appointments via email
-- 🔐 Secure login system (role-based: User / Doctor)
+- 🔐 Secure login system 
 
 ---
 
@@ -55,3 +55,9 @@ pip install -r requirements.txt
 python app.py
 
 
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Khoshal Amin.
