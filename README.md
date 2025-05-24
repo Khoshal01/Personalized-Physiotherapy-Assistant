@@ -66,12 +66,10 @@ python app.py
 
 # In a new terminal (with virtual environment activated), run the Gradio chatbot
 python chatbot.py
-
-
-
+'''
 ---
 
 ## 📃 License
 
 This project is licensed under the [MIT License](LICENSE) © 2025 Khoshal Amin.
----
+
