@@ -47,11 +47,19 @@ Your AI-powered virtual physiotherapist — guiding patients through personalize
 ## 📦 Setup Locally
 
 ```bash
+# Clone the repository
 git clone https://github.com/Khoshal01/Personalized-Physiotherapy-Assistant.git
 cd Personalized-Physiotherapy-Assistant
+
+# Set up Python environment
 python -m venv venv
-venv\Scripts\activate
+venv\Scripts\activate   # On Windows
+# source venv/bin/activate  # On macOS/Linux
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the Flask app
 python app.py
 
 
